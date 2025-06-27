@@ -8,6 +8,8 @@ StudyMate AI is a clean and modern multi-page web application designed specifica
 just created a pure front end pages using the HTML AND CSS AND MEDIA QUERIES 
 and homepage and login page at last i will be pasting the mobile version also 
 https://elevate-labs-task-4-studymate-ai.vercel.app/
+i have uploaded the mobile view below 
+please scroll down and check it
 
 ## ✨ Features
 
